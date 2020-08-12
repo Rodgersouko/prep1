@@ -1,0 +1,17 @@
+.navigation{
+    text-align: center;
+    padding: 20px 20px;
+    position: sticky;
+    scroll-behavior: auto;
+    background-color: lawngreen;
+}
+body{
+    background-color: hotpink;
+}
+.footer{
+    text-align: center;
+    background-color: lawngreen;
+}
+ol{
+    padding-bottom: 50%;
+}
